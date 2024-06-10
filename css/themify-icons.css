@@ -920,6 +920,9 @@
 .ti-twitter:before {
 	content: "\e72a";
 }
+.ti-x-twitter:before {
+	content: "\e61a";
+}
 .ti-time:before {
 	content: "\e72b";
 }
